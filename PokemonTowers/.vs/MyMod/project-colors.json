@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "561a9956-b233-4a83-87e5-d886071bc206": {
+      "ProjectGuid": "561a9956-b233-4a83-87e5-d886071bc206",
+      "DisplayName": "MyMod",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
